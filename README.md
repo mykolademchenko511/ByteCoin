@@ -6,6 +6,7 @@ https://user-images.githubusercontent.com/119513590/230421053-3409e726-a368-4023
 
 
 # Done in this project:
+MVC  
 Use UIPickerView 
 Delegate design pattern  
 URLSession
